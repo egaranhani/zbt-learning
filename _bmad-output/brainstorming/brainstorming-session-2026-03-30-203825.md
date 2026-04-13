@@ -13,8 +13,8 @@ techniques_used:
   - "Question Storming"
 ideas_generated: 120
 context_file: ""
-facilitation_notes: "Sessão executada de ponta a ponta sobre os artefatos em planning-artifacts; referência de mercado tratada como benchmark de oferta (catálogo, tiers, PDFs, reembolso), não como blueprint de marca."
-mvp_scope_note: "Single-producer; só assinatura; 2+ tiers por conteúdo; Pix+cartão; reembolso 7d (validar jur.); #17 #19 #20 fora; #18 sim. Conteúdo: Comece Aqui=flag; #21 interno; #24 histórico; #26–#28 fora; #29 áudio. Técnico #31–#40. Marketing #41–#49 MVP; #50 pós-MVP. Compliance resumo #51–#53 #56 #59 #60; #54–#58 fora. **Sem B2B no primeiro momento:** #61–#70 fora do escopo; roadmap pós-MVP. Certificado só aluno B2C (#66) — decisão aparte, não corporativo/PJ. Ver .md completo."
+facilitation_notes: "Sessão executada de ponta a ponta sobre os artefatos em planning-artifacts; referência de mercado como benchmark de oferta (catálogo, tiers, PDFs, reembolso). **Atualização (decisão de produto):** **não** se busca evitar comparação com Brasil Paralelo no **visual** — proximidade ou paridade de UI com a referência é **aceita e desejada**; diferenciação segue em **nicho, conteúdo e editorial próprios** (e em compliance de marca de terceiros ao reutilizar ativos). **Provocações (wild):** escopo ativo **#95–#97, #100**; **#91–#94** e **#98–#99** retirados da trilha (mergulho documentado)."
+mvp_scope_note: "Single-producer; só assinatura; 2+ tiers por conteúdo; Pix+cartão; reembolso 7d (validar jur.); #17 #19 #20 fora; #18 sim. Conteúdo: Comece Aqui=flag; #21 interno; #24 histórico; #26–#28 fora; #29 áudio. Técnico #31–#40. Marketing #41–#49 MVP; #50 pós-MVP. Compliance resumo #51–#53 #56 #59 #60; #54–#58 fora. **Sem B2B no primeiro momento:** #61–#70 fora do escopo; roadmap pós-MVP. Certificado só aluno B2C (#66) — decisão aparte, não corporativo/PJ. **Identidade #71–#80:** ver mergulho (**visual pode alinhar-se ao BP**; #76 pós-MVP; #78 bio em contexto). **Provocações wild ativas:** #95–#97, #100 (ver mergulho); #91–#94 e #98–#99 fora da trilha. Ver .md completo."
 ---
 
 # Brainstorming Session Results
@@ -26,7 +26,7 @@ mvp_scope_note: "Single-producer; só assinatura; 2+ tiers por conteúdo; Pix+ca
 
 **Tópico:** Ideação a partir da documentação existente do **zbt-learning**, com ênfase no que o **distillate** descreve como referência de mercado (Núcleo de Formação, planos, materiais, política de assinatura).
 
-**Metas:** Gerar volume e variedade de ideias (produto, UX, negócio, conteúdo, tech, GTM, risco), cruzar com o que já está no brief e explicitar **o que importa da referência** versus **o que é armadilha de escopo**.
+**Metas:** Gerar volume e variedade de ideias (produto, UX, negócio, conteúdo, tech, GTM, risco), cruzar com o que já está no brief e explicitar **o que importa da referência** versus **o que é armadilha de escopo**. **Visual:** alinhamento à referência (incl. BP) é **explícito e bem-vindo**; armadilha continua sendo **escopo infinito** sem priorização, não “parecer com BP”.
 
 ### Contexto carregado (documentação)
 
@@ -82,7 +82,7 @@ Execução **concentrada**: técnicas abaixo foram aplicadas de forma sequencial
 **[Cat #19]**: Família / múltiplos perfis — *Conceito*: Dois perfis no mesmo plano premium. *Novelty*: Diferencial doméstico sem ser “Netflix de cursos” genérico. *MVP zbt-learning:* fora do escopo.  
 **[Cat #20]**: Cashback em créditos internos — *Conceito*: % volta para comprar curso avulso. *Novelty*: Aumenta LTV sem desconto frontal. *MVP zbt-learning:* fora do escopo.
 
-### Bloco conteúdo / curadoria (não copiar editorial BP)
+### Bloco conteúdo / curadoria (editorial próprio — não copiar **pauta/conteúdo** de terceiros)
 
 **[Cat #21]**: Calendário editorial trimestral — *Conceito*: Lançamentos previsíveis para retenção. *Novelty*: Endereça risco de pipeline do distillate. *MVP zbt-learning:* **uso interno** (sem compromisso público de cadência).  
 **[Cat #22]**: “Curso âncora” — *Conceito*: Um carro-chefe que define posicionamento. *Novelty*: Substitui tentativa de paridade com catálogo gigante do referente.  
@@ -147,18 +147,18 @@ Execução **concentrada**: técnicas abaixo foram aplicadas de forma sequencial
 **[Cat #69]**: Conformidade NR / treinamentos obrigatórios (se aplicável) — *Conceito*: Trilhas regulatórias. *Novelty*: Nicho de alto valor no BR. *Primeiro momento:* **sem B2B / trilha regulatória corporativa** — fora do escopo.  
 **[Cat #70]**: Nota fiscal e documentação para PJ — *Conceito*: Fluxo de compra B2B. *Novelty*: Desbloqueia empresas. *Primeiro momento:* **sem venda PJ / fluxo B2B** — fora do escopo (checkout CPF / consumidor).
 
-### Bloco diferenciação explícita vs “parecido com BP”
+### Bloco identidade / marca (referência visual BP **aceita**)
 
-**[Cat #71]**: Manifesto de marca em uma frase — *Conceito*: “Somos X, não Y”. *Novelty*: Evita comparação implícita desfavorável.  
-**[Cat #72]**: Design system próprio distinto — *Conceito*: Tipografia e cor que não remetem ao referente. *Novelty*: UX “no espírito”, visual único.  
-**[Cat #73]**: Tom de voz diferente no microcopy — *Conceito*: Formal vs jovem vs acadêmico, escolha consciente. *Novelty*: Personalidade própria.  
-**[Cat #74]**: Nicho vertical único — *Conceito*: Só um domínio até dominar. *Novelty*: Moat do brief (curadoria + nicho).  
-**[Cat #75]**: Preço posicionado abaixo ou acima com razão clara — *Conceito*: Justificar por profundidade ou acesso. *Novelty*: Não copiar tiers sem estratégia.  
-**[Cat #76]**: Programa de “alumni” — *Conceito*: Benefícios para quem completou trilhas. *Novelty*: Comunidade de identidade, não de política.  
-**[Cat #77]**: Qualidade de vídeo como promessa — *Conceito*: 1080p mínimo, áudio tratado. *Novelty*: Diferencial sensorial.  
-**[Cat #78]**: Transparência de quem é o instrutor — *Conceito*: Bios credíveis. *Novelty*: Confiança em nicho técnico.  
-**[Cat #79]**: Compromisso com atualização — *Conceito*: “Última revisão” na página do curso. *Novelty*: Sinal de seriedade.  
-**[Cat #80]**: Evitar misturar política/religião se não for o nicho — *Conceito*: Clareza de posicionamento. *Novelty*: Reduz atrito fora do público-alvo.
+**[Cat #71]**: Manifesto de marca em uma frase — *Conceito*: “Somos X, não Y” (ou promessa clara do programa). *Novelty*: Clareza de promessa; **não** há meta de “evitar” comparação com BP no visual. *Primeiro momento:* **copy e landing** — frase-âncora; não exige feature de produto.  
+**[Cat #72]**: Design system coerente (pode **seguir ou espelhar** o visual da referência) — *Conceito*: Tipografia, cor e componentes **consistentes**; referência BP como **baseline aceitável** (até muito parecido), salvo **ativos/marca** de terceiros que exijam licença. *Primeiro momento:* tokens + biblioteca de UI alinhada à intenção visual; ver mergulho.  
+**[Cat #73]**: Tom de voz definido no microcopy — *Conceito*: Formal vs jovem vs acadêmico, escolha consciente (pode **convergir** com a referência ou não). *Novelty*: Personalidade estável. *Primeiro momento:* **guia curto de voz** + revisão de strings críticas (checkout, empty states, erros).  
+**[Cat #74]**: Nicho vertical único — *Conceito*: Só um domínio até dominar. *Novelty*: Moat do brief (curadoria + nicho). *Primeiro momento:* decisão **estratégica de conteúdo**; plataforma neutra, mas **comunicação** deve refletir o nicho escolhido.  
+**[Cat #75]**: Preço posicionado abaixo ou acima com razão clara — *Conceito*: Justificar por profundidade ou acesso. *Novelty*: Não copiar tiers sem estratégia. *Primeiro momento:* alinha com **#11–#13** (mapa de benefícios e âncora de preço); razão explícita na página de planos.  
+**[Cat #76]**: Programa de “alumni” — *Conceito*: Benefícios para quem completou trilhas. *Novelty*: Comunidade de identidade, não de política. *Primeiro momento:* **pós-MVP** (sem programa estruturado na plataforma); identidade pode ser cultivada **off-product** (lista, grupo).  
+**[Cat #77]**: Qualidade de vídeo como promessa — *Conceito*: 1080p mínimo, áudio tratado. *Novelty*: Diferencial sensorial. *Primeiro momento:* **padrão editorial + checklist #86**; promessa pública só se operação cumprir.  
+**[Cat #78]**: Transparência de quem é o instrutor — *Conceito*: Bios credíveis. *Novelty*: Confiança em nicho técnico. *Primeiro momento:* **bios em contexto** (página programa/curso); **não** sticky global na área logada — ver realinhamento UX.  
+**[Cat #79]**: Compromisso com atualização — *Conceito*: “Última revisão” na página do curso. *Novelty*: Sinal de seriedade. *Primeiro momento:* **campo visível ao aluno** + encaixe com **#24** histórico de versões (PRD: uma data-resumo + timeline se já existir).  
+**[Cat #80]**: Evitar misturar política/religião se não for o nicho — *Conceito*: Clareza de posicionamento. *Novelty*: Reduz atrito fora do público-alvo. *Primeiro momento:* **política editorial do time** (e moderação futura se houver **#88**); não é toggle de software na V1.
 
 ### Bloco operações / suporte
 
@@ -175,16 +175,12 @@ Execução **concentrada**: técnicas abaixo foram aplicadas de forma sequencial
 
 ### Bloco provocações / “wild” / caixa preta
 
-**[Cat #91]**: Assinatura só anual no lançamento — *Conceito*: Força compromisso e valida LTV. *Novelty*: Corta curiosos de um mês.  
-**[Cat #92]**: Curso colaborativo com votação de próximo módulo — *Conceito*: Comunidade decide foco. *Novelty*: Engajamento com risco de moderação.  
-**[Cat #93]**: Parceria com livraria física — *Conceito*: QR com trial. *Novelty*: Canal offline raro em edtech.  
-**[Cat #94]**: “Dupla de assinatura” com outra marca — *Conceito*: Bundle com produto complementar. *Novelty*: Aquisição compartilhada.  
-**[Cat #95]**: Modo offline via download cifrado — *Conceito*: App nativo tardio. *Novelty*: Premium feature.  
-**[Cat #96]**: NFT de certificado (provocação) — *Conceito*: Registrar conclusão on-chain. *Novelty*: Provavelmente overkill; testa reação interna.  
-**[Cat #97]**: IA para resumos de aula — *Conceito*: Flashcards automáticos. *Novelty*: Diferencial tech com custo de modelo.  
-**[Cat #98]**: Clube de leitura sincronizado com curso — *Conceito*: Encontros quinzenais. *Novelty*: Híbrido async/sync leve.  
-**[Cat #99]**: Financiamento coletivo de novo curso — *Conceito*: Campanha pré-venda. *Novelty*: Valida demanda antes de produzir.  
-**[Cat #100]**: Métrica pública “horas atualizadas no mês” — *Conceito*: Transparência de evolução. *Novelty*: Sinal de produto vivo.
+**Escopo ativo desta trilha (decisão de produto):** apenas **#95, #96, #97, #100**. As ideias **#91–#94** e **#98–#99** foram **retiradas** da lista de provocações (não entram no mergulho nem na priorização deste bloco; numeração original da sessão mantém lacunas **91–94** e **98–99** para rastreabilidade com versões anteriores do doc).
+
+**[Cat #95]**: Modo offline via download cifrado — *Conceito*: App nativo tardio. *Novelty*: Premium feature. *Trilha ativa:* ver **Mergulho — provocações**.  
+**[Cat #96]**: NFT de certificado (provocação) — *Conceito*: Registrar conclusão on-chain. *Novelty*: Provavelmente overkill; testa reação interna. *Trilha ativa:* ver mergulho.  
+**[Cat #97]**: IA para resumos de aula — *Conceito*: Flashcards automáticos. *Novelty*: Diferencial tech com custo de modelo. *Trilha ativa:* ver mergulho.  
+**[Cat #100]**: Métrica pública “horas atualizadas no mês” — *Conceito*: Transparência de evolução. *Novelty*: Sinal de produto vivo. *Trilha ativa:* ver mergulho.
 
 ### Bloco Question Storming (perguntas novas além do distillate)
 
@@ -226,9 +222,9 @@ Execução **concentrada**: técnicas abaixo foram aplicadas de forma sequencial
 | **Aquisição**                | #41–#49 MVP; **#50 pós-MVP** | Ver mergulho marketing; #17 fora MVP; #48 decisão aparte; **#50** indicação após primeiro release estável. |
 | **Confiança BR**             | #51–#53, #56, #59–#60; **#54–#58 fora** | LGPD/e-mail (#51–#52), chargeback (#56), backup (#59), a11y (#60); ver decisões compliance na sessão.        |
 | **B2B**                      | #61–#70                | **Fora do primeiro momento** (decisão fechada). Ver **Mergulho — B2B** como roadmap pós-MVP; #66 B2C-only à parte. |
-| **Identidade vs referência** | #71–#80                | “Parecido” = **fluxo e oferta**, não marca nem editorial.                                                    |
+| **Identidade vs referência** | #71–#80                | Ver **Mergulho**; **visual** pode alinhar-se ao BP (decisão produto). **Conteúdo/pauta** e **marca registrada de terceiros** seguem regras próprias (não copiar editorial nem logo alheia sem direito). |
 | **Operação**                 | #81–#90                | Reduz tickets e risco contratual de conteúdo.                                                                |
-| **Provocações**              | #91–#120               | Fonte de experimentos pós-validação inicial.                                                                 |
+| **Provocações (wild)**       | **#95–#97, #100**      | Ver **Mergulho — provocações**; #91–#94 e #98–#99 fora do escopo. Blocos **#101–#110** e **#111–#120** permanecem como Question Storming / SCAMPER. |
 
 
 ---
@@ -238,7 +234,7 @@ Execução **concentrada**: técnicas abaixo foram aplicadas de forma sequencial
 **Must-explore curto prazo (alto impacto / alinhado ao brief):** #8, #11, #22, #25, #31, #34, #41, #51, #86, #101.  
 **Negócio MVP fechado:** só assinatura; 2+ tiers por conteúdo; Pix+cartão; reembolso 7 dias; #18 presente; #17 #19 #20 fora. **Ainda aberto:** mapa conteúdo ↔ tier (exclusivos ou não).  
 **Depende de decisão explícita:** certificado **só B2C** (#66), live leve (#48). **B2B (#61–#70)** fora do primeiro momento (fechado). **#14** fora do MVP.  
-**Adiar pós tração:** #95, #97, multi-idioma (#87), white-label (#65).
+**Adiar pós tração / experimental:** **#95** (offline cifrado), **#97** (IA resumos), **#96** (NFT — só se houver hipótese de valor clara; caso contrário arquivo), **#100** (métrica pública — pode ser leve cedo ou pós tração conforme PRD). Multi-idioma (#87), white-label (#65).
 
 ---
 
@@ -248,7 +244,7 @@ Execução **concentrada**: técnicas abaixo foram aplicadas de forma sequencial
 2. **Desenhar matriz de planos** (#11–#15) com jurídico e financeiro.
 3. **Definir métricas de sucesso operacional** (#8 + métricas do brief) no primeiro wireframe de onboarding.
 4. **Escolher stack de vídeo** (pergunta aberta no distillate) com base em #31–#34.
-5. Se quiser **continuar a sessão interativa**, abrir novo arquivo ou responder neste thread com: foco em um tema (ex.: só monetização) para aprofundar com técnicas colaborativas.
+5. **Continuação documental:** mergulho **#71–#80 identidade vs referência** registrado neste arquivo; próximo bloco sugerido na ordem: **#81–#90 operação / suporte**.
 
 ---
 
@@ -286,7 +282,7 @@ O workflow BMAD de brainstorming prevê **pausas para escolha de técnica e conf
 - **#8 Onboarding pós-entrada** — crítico: encaminhar à trilha com flag **“Comece Aqui”** (trilha normal no sistema; uma flag ativa por vez, a definir no PRD).
 - **#48 Live / Q&A** (fase 2) — altamente alinhado a **mentor**; mais natural que em plataforma anônima.
 - **#49 Retomar aula** — manter; tom pode ser **pessoal** (“Retome o módulo Y”) se o produto permitir.
-- **#71–#73, #76–#79** — identidade, voz, alumni, transparência: seguem relevantes; **#78 bio do instrutor** não precisa estar **sempre visível** na área logada (decisão: acesso em contexto, não sticky global).
+- **#71–#73, #76–#79** — identidade, voz, alumni, transparência: seguem relevantes; **baseline visual** pode alinhar-se fortemente à referência (BP) por **decisão de produto**. **#78 bio do instrutor** não precisa estar **sempre visível** na área logada (decisão: acesso em contexto, não sticky global).
 - **#4 Preview** — **manter como no original**: primeiros N minutos ou aula zero por curso (amostra legal clara).
 
 **Fora do MVP (UX)**
@@ -627,4 +623,113 @@ Três padrões viáveis (podem coexistir por fase):
 - **#66** certificado **só B2C** entra no pacote do MVP B2C ou não? (permanece em “depende de decisão explícita” na priorização.)  
 - **Quando** reabrir B2B: ordem de **#70** (PJ/NF) vs **#68** (pacote mínimo) — para PRD de fase posterior.
 
-*Mergulho temático — B2B / adjacências; próximo bloco na sessão original: **identidade vs referência** (#71–#80).*
+*Mergulho temático — B2B / adjacências (fechado para primeiro momento). Continuação: **identidade vs referência** (#71–#80) na seção seguinte.*
+
+---
+
+## Mergulho — identidade vs referência (Cat #71–#80)
+
+**Registro:** continuação da mesma sessão documental; bloco pedido como **próxima sessão** de mergulho na ordem original.
+
+**Contexto:** a **referência de mercado** (Brasil Paralelo no benchmark) cobre **mecânicas e, por decisão atual do produto, também a linguagem visual desejada**. Com **um único produtor**, a voz editorial pode convergir ou divergir da referência — o que importa é **clareza de promessa** (#71, #74), **qualidade percebida** (#77) e **não confundir o usuário** sobre **quem é o programa** (marca **própria** e conteúdo **próprio**). O risco deixa de ser “parecer com BP” e passa a ser **promessa vazia**, **nicho indefinido** ou **uso indevido de marca/ativos de terceiros** (questão jurídica, não de gosto).
+
+**Decisão de produto (atualização):** **não** se pretende evitar comparação com Brasil Paralelo no **visual** — o time **gosta** do visual de referência e aceita **proximidade forte ou paridade** de UI. **Continua fora de escopo** tratar **pauta editorial, vídeos ou logomarca** de terceiros como algo a “copiar” sem direito; isso é **conteúdo / PI**, não “estilo de tela”.
+
+### Leitura por ideia
+
+| Cat | Ideia | Leitura (single-producer / primeiro momento) |
+|-----|--------|-----------------------------------------------|
+| **#71** | Manifesto em uma frase | **Alto impacto, baixo custo de produto:** define home, meta description e “above the fold”. Foco em **promessa do seu programa**, não em “diferenciar visualmente da referência”. Jurídico pode revisar promessas mensuráveis. |
+| **#72** | Design system (pode alinhar ao BP) | **MVP de consistência:** paleta, tipo, componentes e espaçamentos **coerentes**; **baseline visual** pode seguir a referência (incl. muito parecido ou igual em **layout/padrões de UI**). Documentar tokens evita drift em PRs. Validar com jurídico **logos, ícones proprietários ou trade dress** de terceiros antes de reutilizar arquivos idênticos. |
+| **#73** | Tom no microcopy | **MVP:** checkout, erros de pagamento, empty states e **#8** onboarding são onde a voz mais aparece; guia de **1 página** (formalidade, segunda pessoa, humor sim/não). Tom pode **convergir** com a referência se fizer sentido para o público. |
+| **#74** | Nicho vertical único | **Fora do escopo de software** como “feature”, mas **bloqueador de GTM** se indefinido: páginas, **#41** SEO e **#46** prova social dependem do nicho. Fechar com **#101** (curso âncora). |
+| **#75** | Preço com razão clara | Conecta a **#11–#13**: tabela de planos deve dizer **por que** cada tier existe (profundidade de biblioteca, não “feature escondida”). |
+| **#76** | Alumni | **Pós-MVP** na plataforma; no primeiro momento, **identidade** pode ser reforçada por **#47** e comunidade leve **externa** sem SKU “alumni”. |
+| **#77** | Qualidade vídeo/áudio | **Operação de conteúdo + promessa pública:** alinhar com **#86** checklist e com **#31** pipeline; não prometer 1080p se o acervo legado for 720p sem plano de reencode. |
+| **#78** | Bios / instrutor | **Decisão UX fechada:** credibilidade em **página de programa ou curso**; **não** barra fixa com rosto na área logada. |
+| **#79** | “Última revisão” no curso | **MVP recomendado:** data (e opcionalmente nota curta) visível na ficha do curso; integra narrativa de **#24** (“o que mudou” vs só “última data”). |
+| **#80** | Política/religião fora do nicho | **Governança de marca:** se o nicho **não** for pautado, misturar temas polarizantes na **comunicação** atrai atrito e chargeback por expectativa errada. Afeta copy, thumbnails e futura **#88** moderação — não precisa de feature na V1. |
+
+### Onde isso vive (para PRD e squads)
+
+| Dono provável | Entregável primeiro momento |
+|---------------|------------------------------|
+| **Marca / conteúdo** | #71, #74, #77, #80 (diretrizes + acervo) |
+| **UX + front** | #72, #73 (tokens + strings + revisão de fluxos críticos) |
+| **Produto / CMS** | #79 (campo + exibição), encaixe **#24** |
+| **Negócio** | #75 (copy na página de planos) |
+| **Roadmap explícito pós-MVP** | #76 |
+
+### Riscos
+
+- **#72** sem documentação → equipe drifta entre telas e **quebra** a intenção visual (mesmo quando a intenção é parecida com BP).  
+- **PI / marca:** confundir “pode parecer” com “pode **reutilizar ativos protegidos**” — ícone, logotipo ou material **identificável de terceiro** exige critério jurídico, não só de produto.  
+- **#77** promessa agressiva sem pipeline → reclamação social e churn precoce.  
+- **#80** ignorado quando o produtor tem opinião forte fora do nicho → público errado na porta e suporte “não sabia que era sobre isso”.  
+- **#71** frase vaga (“a melhor plataforma”) → não substitui **#74** nem substitui prova (**#46**).
+
+### Perguntas em aberto (identidade → PRD / workshop)
+
+- A **frase-âncora** (#71) já existe em rascunho e passa **teste de nicho** (#74)?  
+- **Guia de voz** (#73): quem aprova strings finais em lançamento (produtor único = pode ser uma pessoa)?  
+- **#79** exibe só data ou também **link** para o changelog da aula quando **#24** tiver entrada nova?  
+- **#80:** há conteúdo histórico (redes, vídeos antigos) que contradiz o posicionamento desejado do programa?  
+- **Baseline visual:** há **moodboard** ou referência de tela (BP ou outra) formalmente escolhida para o time de UI copiar **padrões** (não necessariamente assets)?
+
+### Cruzamentos com outros blocos da sessão
+
+- **#24 + #79:** mesma história de “conteúdo vivo” — evitar duas fontes de verdade sem sincronismo.  
+- **#4 preview + #41 SEO:** primeira impressão pública; deve soar **#73** (consistente), não texto genérico descolado do restante.  
+- **#6 PDFs e #86:** capas e typo **alinhados ao #72** reforçam a mesma identidade visual escolhida (incl. paridade com referência).
+
+*Mergulho temático — identidade vs referência. **Provocações** (#95–#97, #100): ver seção dedicada abaixo. Na ordem original ainda pendente: **operação / suporte** (#81–#90).*
+
+---
+
+## Mergulho — provocações / caixa preta (**#95, #96, #97, #100**)
+
+**Registro:** escopo de provocações **reduzido** pelo produto — **#91–#94** e **#98–#99** fora; mergulho só nestes quatro itens.
+
+**Contexto:** provocações testam **fronteira de produto** (premium técnico, novidade de mercado, custo variável, narrativa de confiança). Com **single-producer**, **assinatura** e **MVP** já carregados de escopo (#31–#40, gift, lembretes, etc.), cada item aqui compete por **engenharia**, **risco reputacional** e **custo marginal por usuário**.
+
+### Leitura por ideia
+
+| Cat | Ideia | Leitura (primeiro momento → roadmap) |
+|-----|--------|----------------------------------------|
+| **#95** | Offline via download **cifrado** (app nativo tardio) | **Pós-MVP forte.** Exige **app nativo** ou runtime com armazenamento seguro, rotação de chaves, política de revogação quando assinatura cancela, e ainda **não elimina pirataria determinada**. Converge com **#35** PWA (offline leve, sem “download de curso completo” cifrado). **Recomendação:** web + PWA + streaming estável antes de #95. |
+| **#96** | NFT de certificado | **Provocação / baixa prioridade.** On-chain adiciona **complexidade** (carteira, gas, narrativa crypto), **reputação** mista para público mainstream e pouco ganho pedagógico frente a **#66** (certificado B2C com QR em URL própria). **Recomendação:** arquivo ou piloto **interno** só para aprender reação; **não** planejar no PRD do primeiro release salvo pivô explícito de marca. |
+| **#97** | IA: resumos / flashcards por aula | **Alto valor percebido, custo e risco operacional.** Depende de **modelo** (API), **privacidade** (transcrição/conteúdo do curso como prompt — LGPD/contrato com produtor), **alucinação** (resumo errado = perda de confiança). **Recomendação:** **pós tração** ou **piloto** em trilha fechada com revisão humana; métricas: uso, custo/token, NPS. |
+| **#100** | Métrica pública “horas atualizadas no mês” | **Baixo custo de produto se a métrica já existir** no backend (soma de duração de aulas **publicadas ou republicadas** no mês — definir regra). **Risco:** número baixo expõe cadência fraca; número “gamed” destrói confiança. **Recomendação:** opcional no **site público** após **#24** estável; copy honesta (“novas aulas”, “conteúdo revisado”) pode funcionar melhor que só horas. |
+
+### Matriz rápida: esforço × risco × alinhamento ao MVP atual
+
+| Item | Esforço eng. | Risco (produto/reputação) | Encaixe MVP “núcleo” |
+|------|----------------|---------------------------|----------------------|
+| **#95** | Alto | Médio (expectativa vs entrega) | Não |
+| **#96** | Alto | Alto (narrativa + suporte) | Não |
+| **#97** | Médio–alto | Médio (qualidade + LGPD + custo) | Não (piloto depois) |
+| **#100** | Baixo–médio* | Baixo–médio (métrica mal definida) | Opcional leve |
+
+\*Baixo se for só agregação de dados já coletados para **#24** / publicação; médio se exigir instrumentação nova.
+
+### Dependências e cruzamentos
+
+- **#95** ↔ **#32** DRM, **#31** transcodificação, **#35** PWA — offline “de verdade” quase sempre **nativo**; PWA cobre só parte da promessa.  
+- **#96** ↔ **#66** certificado — **substituível** por QR + página verificável sem blockchain.  
+- **#97** ↔ **#33** legendas/transcrição (se existir, alimenta IA com menos custo de ASR), **#52** bases legais para processar texto de aulas.  
+- **#100** ↔ **#24** histórico de versões, **#21** calendário interno (não prometer ao público o que o interno não registra).
+
+### Riscos transversais
+
+- Empilhar **#95 + #97** cedo → roadmap vira **plataforma de plataforma** antes de **churn** e **consumo** estáveis.  
+- **#96** em comunicação externa sem produto maduro → associação a “hype” e desvio do **nicho** (#74).  
+- **#100** sem definição de **o que conta como “hora atualizada”** → contestação em redes e suporte.
+
+### Perguntas em aberto (para PRD / discovery)
+
+- **#95:** o público-alvo **realmente** precisa de download (commute sem sinal) ou basta **player + CDN BR** (#34)?  
+- **#96:** existe **stakeholder** que liga valor de marca a “on-chain” ou foi só brainstorm?  
+- **#97:** conteúdo das aulas pode ir a **fornecedor de modelo** nos termos do produtor? Quem **revisa** o primeiro card de cada módulo?  
+- **#100:** a métrica será **auditável** internamente e **explicável** em uma frase no rodapé?
+
+*Mergulho temático — provocações (**#95, #96, #97, #100**). #91–#94 e #98–#99 **fora** do escopo desta trilha.*

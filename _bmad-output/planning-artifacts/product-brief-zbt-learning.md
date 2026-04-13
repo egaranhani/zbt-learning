@@ -12,7 +12,7 @@ inputs:
 
 ## Executive Summary
 
-**zbt-learning** é uma plataforma de treinamentos online pensada para entregar experiência de aprendizado contínuo em vídeo, com catálogo organizado, área do aluno e possibilidade de materiais complementares — no **espírito** do portal de cursos de referência (catálogo rico, jornada de assinante, conteúdo serializado), sem depender de copiar posicionamento editorial ou marca de terceiros.
+**zbt-learning** é uma plataforma de treinamentos online pensada para entregar experiência de aprendizado contínuo em vídeo, com catálogo organizado, área do aluno e possibilidade de materiais complementares — no **espírito** do portal de cursos de referência (catálogo rico, jornada de assinante, conteúdo serializado). **Decisão de produto:** a **linguagem visual** pode **alinhar-se fortemente** à referência (ex.: Brasil Paralelo), inclusive com **alta proximidade ou paridade** de UI, onde isso agregar percepção de qualidade; **posicionamento editorial, pauta e conteúdo** permanecem **próprios**, e **marca/ativos protegidos de terceiros** só entram com **direito de uso** (critério jurídico).
 
 O problema central é a fragmentação: quem quer ensinar ou escalar uma escola digital hoje costuma depender de marketplaces genéricos ou de montar várias ferramentas (vídeo, pagamento, comunidade, PDFs). O produto concentra **descoberta de cursos**, **consumo em vídeo**, **progresso** e **monetização por assinatura ou pacotes** em um só lugar, priorizando clareza de navegação e retenção.
 
@@ -37,7 +37,7 @@ A narrativa para o usuário final é: **um lugar para aprender com vídeo de qua
 
 ## O que torna isso diferente
 
-- **Referência de UX, não de conteúdo**: o diferencial competitivo real virá do **nicho**, dos **instrutores** e da **curadoria** — a plataforma deve ser neutra o suficiente para suportar essa identidade.
+- **Referência de UX (e visual) pode ser explícita**: experiência de telas pode **seguir** referências de mercado fortes (incl. proximidade visual desejada). O diferencial no **mercado** continua vindo do **nicho**, dos **instrutores** e da **curadoria de conteúdo** — não é obrigatório “forçar” um visual diferente só para não parecer com a referência.
 - **Foco em treinamento serializado** (cursos longos, módulos, progresso), em contraste com apenas “vídeo avulso” sem estrutura pedagógica mínima.
 - **Modelo de negócio flexível** na roadmap: assinatura com tiers, pacotes avulsos ou híbrido, conforme validação com o primeiro público.
 

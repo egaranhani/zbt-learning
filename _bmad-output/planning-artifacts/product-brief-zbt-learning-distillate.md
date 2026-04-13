@@ -8,12 +8,12 @@ purpose: "Contexto condensado para PRD e próximas fases"
 
 ## Referência de mercado (público)
 
-- Brasil Paralelo combina streaming com **Núcleo de Formação**: dezenas de cursos gravados, professores, áreas como história, filosofia, política, artes; planos por faixa de preço; menção pública a **materiais em PDF** e **garantia de reembolso em 7 dias** em materiais de assinatura — útil como **benchmark de oferta e empacotamento**, não como template de posicionamento.
+- Brasil Paralelo combina streaming com **Núcleo de Formação**: dezenas de cursos gravados, professores, áreas como história, filosofia, política, artes; planos por faixa de preço; menção pública a **materiais em PDF** e **garantia de reembolso em 7 dias** em materiais de assinatura — útil como **benchmark de oferta, empacotamento e (por decisão de produto) referência visual**; **pauta editorial e conteúdo** do zbt-learning são **próprios**.
 
 ## Intenção do usuário
 
 - Produto desejado: **plataforma de treinamentos online**.
-- Inspiração explícita: **parecido com o portal de treinamentos da Brasil Paralelo** (experiência de catálogo + membro + cursos).
+- Inspiração explícita: **parecido com o portal de treinamentos da Brasil Paralelo** (experiência de catálogo + membro + cursos); **visual** pode ir **além do “inspirado”** e buscar **forte proximidade ou paridade** com a referência, **sem** copiar **marca registrada, logotipo ou conteúdo** de terceiros sem licença.
 
 ## Requisitos implícitos / hints
 
@@ -61,4 +61,4 @@ purpose: "Contexto condensado para PRD e próximas fases"
 
 ## Rejeitado nesta sessão
 
-- Nada formalmente rejeitado pelo usuário; evitar tratar “cópia de marca/conteúdo BP” como objetivo — referência é **experiência e modelo de negócio**, não clone editorial.
+- Nada formalmente rejeitado pelo usuário. **Atualização:** **não** é objetivo evitar comparação ou proximidade **visual** com Brasil Paralelo. Continua **fora de objetivo** usar **marca, logotipo, conteúdo audiovisual ou pauta editorial** de terceiros como se fossem próprios — referência é **modelo de produto e de UI**, com **conteúdo e marca do zbt-learning**.
