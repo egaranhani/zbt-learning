@@ -62,7 +62,7 @@ Honestidade estratégica: se o “moat” inicial for **execução** (qualidade 
 
 **Dentro da primeira versão (direção sugerida):** catálogo, páginas de curso, autenticação, player com progresso, planos e pagamento, área do aluno, upload/gestão mínima de conteúdo pelo backoffice (ou CMS integrado), materiais complementares por curso.
 
-**Fora ou posterior:** app nativo completo, comunidade social pesada, live streaming complexo, marketplace multi-tenant para terceiros, DRM de nível estúdio — a menos que virem requisito explícito de negócio.
+**Fora ou posterior:** app nativo completo, comunidade social pesada, live streaming complexo, marketplace multi-tenant para terceiros, DRM de nível estúdio — a menos que virem requisito explícito de negócio. **B2B / venda corporativa e fluxo PJ** ficam **fora do primeiro momento**; a visão de “expansão B2B” na seção Visão permanece como **fase posterior**, não escopo inicial.
 
 **Compliance e risco (Brasil):** LGPD (bases legais, política de privacidade), CDC para consumidor e políticas de cancelamento/reembolso alinhadas a jurídico; **licenciamento e direitos autorais de vídeo** são pré-requisitos de conteúdo, não só de software.
 

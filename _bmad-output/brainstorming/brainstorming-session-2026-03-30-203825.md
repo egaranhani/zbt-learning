@@ -14,7 +14,7 @@ techniques_used:
 ideas_generated: 120
 context_file: ""
 facilitation_notes: "Sessão executada de ponta a ponta sobre os artefatos em planning-artifacts; referência de mercado tratada como benchmark de oferta (catálogo, tiers, PDFs, reembolso), não como blueprint de marca."
-mvp_scope_note: "Single-producer; só assinatura; 2+ tiers por conteúdo; Pix+cartão; reembolso 7d (validar jur.); #17 #19 #20 fora; #18 sim. Conteúdo: Comece Aqui=flag; #21 interno; #24 histórico; #26–#28 fora; #29 áudio. Técnico: mergulho #31–#40 (mídia, entitlements, webhooks, PWA, CSV, impersonação). Ver .md da sessão."
+mvp_scope_note: "Single-producer; só assinatura; 2+ tiers por conteúdo; Pix+cartão; reembolso 7d (validar jur.); #17 #19 #20 fora; #18 sim. Conteúdo: Comece Aqui=flag; #21 interno; #24 histórico; #26–#28 fora; #29 áudio. Técnico #31–#40. Marketing #41–#49 MVP; #50 pós-MVP. Compliance resumo #51–#53 #56 #59 #60; #54–#58 fora. **Sem B2B no primeiro momento:** #61–#70 fora do escopo; roadmap pós-MVP. Certificado só aluno B2C (#66) — decisão aparte, não corporativo/PJ. Ver .md completo."
 ---
 
 # Brainstorming Session Results
@@ -31,7 +31,7 @@ mvp_scope_note: "Single-producer; só assinatura; 2+ tiers por conteúdo; Pix+ca
 ### Contexto carregado (documentação)
 
 - **Product brief:** plataforma web, catálogo, player, progresso, planos, área do aluno, compliance BR, escopo MVP vs pós-MVP.
-- **Distillate:** benchmark BP (cursos gravados, PDFs, tiers de preço, garantia 7 dias em material público); perguntas abertas (B2C vs B2B, híbrido, gateway, vídeo); riscos (pipeline de conteúdo, CAC).
+- **Distillate:** benchmark BP (cursos gravados, PDFs, tiers de preço, garantia 7 dias em material público); **B2B fora do primeiro momento** (decisão fechada nesta sessão); demais perguntas (híbrido, gateway, vídeo); riscos (pipeline de conteúdo, CAC).
 
 ### Setup
 
@@ -119,33 +119,33 @@ Execução **concentrada**: técnicas abaixo foram aplicadas de forma sequencial
 **[Cat #47]**: Comunidade leve: newsletter semanal — *Conceito*: Curadoria do que assistir. *Novelty*: Retenção sem fórum.  
 **[Cat #48]**: Evento ao vivo trimestral só para assinantes — *Conceito*: Q&A com instrutor. *Novelty*: “Live complexo” fora do MVP, mas versão mínima viável de live.  
 **[Cat #49]**: Remarketing com base em aula abandonada — *Conceito*: “Retome na aula 3”. *Novelty*: Recuperação de uso.  
-**[Cat #50]**: Indicação: mês grátis para ambos — *Conceito*: K-factor simples. *Novelty*: Crescimento orgânico.
+**[Cat #50]**: Indicação: mês grátis para ambos — *Conceito*: K-factor simples. *Novelty*: Crescimento orgânico. *MVP zbt-learning:* **pós-MVP** (decisão fechada).
 
 ### Bloco risco / compliance / confiança
 
 **[Cat #51]**: Página “transparência de dados” — *Conceito*: LGPD em linguagem clara. *Novelty*: Diferencial de confiança no checkout.  
 **[Cat #52]**: Consentimento granular de e-mail — *Conceito*: Marketing vs transacional. *Novelty*: Evita multa e irritação.  
 **[Cat #53]**: Política de conteúdo publicada — *Conceito*: O que entra e o que não entra. *Novelty*: Protege marca sem debate implícito.  
-**[Cat #54]**: Processo de DMCA / denúncia — *Conceito*: Canal formal. *Novelty*: Proteção se houver UGC futuro.  
-**[Cat #55]**: Seguro ou cláusula de responsabilidade para opiniões de instrutores — *Conceito*: Alinhamento jurídico. *Novelty*: Reduz risco reputacional.  
+**[Cat #54]**: Processo de DMCA / denúncia — *Conceito*: Canal formal. *Novelty*: Proteção se houver UGC futuro. *MVP zbt-learning:* **fora do escopo** (sessão compliance).  
+**[Cat #55]**: Seguro ou cláusula de responsabilidade para opiniões de instrutores — *Conceito*: Alinhamento jurídico. *Novelty*: Reduz risco reputacional. *MVP zbt-learning:* **fora do escopo** (sessão compliance).  
 **[Cat #56]**: Monitoramento de chargeback — *Conceito*: Alertas por gateway. *Novelty*: Fraude comum em digital goods.  
-**[Cat #57]**: Teste de stress de reembolso — *Conceito*: Simular pico pós-campanha. *Novelty*: Evita colapso operacional.  
-**[Cat #58]**: Plano de crise de mídia — *Conceito*: Resposta se curso polêmico vazar. *Novelty*: Black swan para conteúdo opinativo.  
+**[Cat #57]**: Teste de stress de reembolso — *Conceito*: Simular pico pós-campanha. *Novelty*: Evita colapso operacional. *MVP zbt-learning:* **fora do escopo** (sessão compliance).  
+**[Cat #58]**: Plano de crise de mídia — *Conceito*: Resposta se curso polêmico vazar. *Novelty*: Black swan para conteúdo opinativo. *MVP zbt-learning:* **fora do escopo** (sessão compliance).  
 **[Cat #59]**: Backup de vídeos e contratos — *Conceito*: Segunda cópia e termos com instrutores. *Novelty*: Continuidade do negócio.  
 **[Cat #60]**: Acessibilidade WCAG incremental — *Conceito*: Roadmap por fases. *Novelty*: Evita débito técnico social.
 
 ### Bloco B2B / adjacências (do distillate)
 
-**[Cat #61]**: Licença por assentos para empresas — *Conceito*: RH compra N logins. *Novelty*: Novo canal de receita.  
-**[Cat #62]**: Relatório de progresso para gestor — *Conceito*: CSV ou dashboard simples. *Novelty*: Prova de uso corporativo.  
-**[Cat #63]**: SSO futuro — *Conceito*: SAML/OIDC. *Novelty*: Requisito enterprise tardio.  
-**[Cat #64]**: Workshops fechados como add-on — *Conceito*: Sessão síncrona vendida à parte. *Novelty*: Alto ticket sem mudar core VOD.  
-**[Cat #65]**: White-label parcial — *Conceito*: Logo do cliente em subdomínio. *Novelty*: Receita B2B sem multi-tenant completo.  
-**[Cat #66]**: Certificado com QR verificável — *Conceito*: URL pública valida conclusão. *Novelty*: Mitiga fraude mencionada no distillate.  
-**[Cat #67]**: API read-only de progresso — *Conceito*: Integra LMS externo. *Novelty*: Híbrido plataforma + ecossistema.  
-**[Cat #68]**: Pacotes “equipe mínima” (5 licenças) — *Conceito*: SKU simples. *Novelty*: Testa B2B sem enterprise sales.  
-**[Cat #69]**: Conformidade NR / treinamentos obrigatórios (se aplicável) — *Conceito*: Trilhas regulatórias. *Novelty*: Nicho de alto valor no BR.  
-**[Cat #70]**: Nota fiscal e documentação para PJ — *Conceito*: Fluxo de compra B2B. *Novelty*: Desbloqueia empresas.
+**[Cat #61]**: Licença por assentos para empresas — *Conceito*: RH compra N logins. *Novelty*: Novo canal de receita. *Primeiro momento zbt-learning:* **sem B2B** — fora do escopo (decisão fechada).  
+**[Cat #62]**: Relatório de progresso para gestor — *Conceito*: CSV ou dashboard simples. *Novelty*: Prova de uso corporativo. *Primeiro momento:* **sem B2B** — fora do escopo.  
+**[Cat #63]**: SSO futuro — *Conceito*: SAML/OIDC. *Novelty*: Requisito enterprise tardio. *Primeiro momento:* **sem B2B** — fora do escopo.  
+**[Cat #64]**: Workshops fechados como add-on — *Conceito*: Sessão síncrona vendida à parte. *Novelty*: Alto ticket sem mudar core VOD. *Primeiro momento:* **sem B2B** no produto — oferta corporativa/agendada fora do escopo; evento avulso pode ser manual/off-platform.  
+**[Cat #65]**: White-label parcial — *Conceito*: Logo do cliente em subdomínio. *Novelty*: Receita B2B sem multi-tenant completo. *Primeiro momento:* **sem B2B** — fora do escopo.  
+**[Cat #66]**: Certificado com QR verificável — *Conceito*: URL pública valida conclusão. *Novelty*: Mitiga fraude mencionada no distillate. *Primeiro momento:* **uso corporativo/PJ** ligado a este bloco — fora; **certificado só para aluno B2C** permanece decisão **à parte** (não é B2B).  
+**[Cat #67]**: API read-only de progresso — *Conceito*: Integra LMS externo. *Novelty*: Híbrido plataforma + ecossistema. *Primeiro momento:* **sem B2B** — fora do escopo.  
+**[Cat #68]**: Pacotes “equipe mínima” (5 licenças) — *Conceito*: SKU simples. *Novelty*: Testa B2B sem enterprise sales. *Primeiro momento:* **sem B2B** — fora do escopo.  
+**[Cat #69]**: Conformidade NR / treinamentos obrigatórios (se aplicável) — *Conceito*: Trilhas regulatórias. *Novelty*: Nicho de alto valor no BR. *Primeiro momento:* **sem B2B / trilha regulatória corporativa** — fora do escopo.  
+**[Cat #70]**: Nota fiscal e documentação para PJ — *Conceito*: Fluxo de compra B2B. *Novelty*: Desbloqueia empresas. *Primeiro momento:* **sem venda PJ / fluxo B2B** — fora do escopo (checkout CPF / consumidor).
 
 ### Bloco diferenciação explícita vs “parecido com BP”
 
@@ -219,13 +219,13 @@ Execução **concentrada**: técnicas abaixo foram aplicadas de forma sequencial
 
 | Tema                         | Ideias representativas | Insight                                                                                                      |
 | ---------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------ |
-| **Jornada e retenção**       | #1–#8, #48–#50 (+ lembretes/contatos MVP) | #9 e #10 fora do MVP; trilha **Comece Aqui** no 1º acesso; temas/config navegação configuráveis (#2). |
+| **Jornada e retenção**       | #1–#8, #48–#49 (+ lembretes/contatos MVP); **#50 pós-MVP** | #9 e #10 fora do MVP; trilha **Comece Aqui** no 1º acesso; temas/config navegação configuráveis (#2). |
 | **Monetização**              | #11–#16, #18, #111–#120 | MVP: só assinatura; 2+ tiers por **conteúdo**; #17 #19 #20 fora; #18 presente; reembolso 7 dias (validar jur.). |
 | **Conteúdo**                 | #21–#30                | Ver mergulho + **Decisões fechadas**; flag Comece Aqui; #24 histórico; #21 interno; #29 sim; #26–#28 fora. |
 | **Tecnologia**               | #31–#40                | Ver **Mergulho — bloco técnico**; #31–#34+#32 core mídia; #37=entitlements; #29 áudio; #36–#40 pagamento/operação. |
-| **Aquisição**                | #41–#50                | Diversificar de CAC alto (distillate) com SEO, cortes, afiliados com teto.                                   |
-| **Confiança BR**             | #51–#60                | LGPD/CDC e transparência de planos sustentam conversão premium.                                              |
-| **B2B opcional**             | #61–#70                | Adjacência clara no distillate; não misturar com MVP sem decisão.                                            |
+| **Aquisição**                | #41–#49 MVP; **#50 pós-MVP** | Ver mergulho marketing; #17 fora MVP; #48 decisão aparte; **#50** indicação após primeiro release estável. |
+| **Confiança BR**             | #51–#53, #56, #59–#60; **#54–#58 fora** | LGPD/e-mail (#51–#52), chargeback (#56), backup (#59), a11y (#60); ver decisões compliance na sessão.        |
+| **B2B**                      | #61–#70                | **Fora do primeiro momento** (decisão fechada). Ver **Mergulho — B2B** como roadmap pós-MVP; #66 B2C-only à parte. |
 | **Identidade vs referência** | #71–#80                | “Parecido” = **fluxo e oferta**, não marca nem editorial.                                                    |
 | **Operação**                 | #81–#90                | Reduz tickets e risco contratual de conteúdo.                                                                |
 | **Provocações**              | #91–#120               | Fonte de experimentos pós-validação inicial.                                                                 |
@@ -237,7 +237,7 @@ Execução **concentrada**: técnicas abaixo foram aplicadas de forma sequencial
 
 **Must-explore curto prazo (alto impacto / alinhado ao brief):** #8, #11, #22, #25, #31, #34, #41, #51, #86, #101.  
 **Negócio MVP fechado:** só assinatura; 2+ tiers por conteúdo; Pix+cartão; reembolso 7 dias; #18 presente; #17 #19 #20 fora. **Ainda aberto:** mapa conteúdo ↔ tier (exclusivos ou não).  
-**Depende de decisão explícita:** B2B (#61–#68), certificado (#66), live leve (#48). **#14** fora do MVP.  
+**Depende de decisão explícita:** certificado **só B2C** (#66), live leve (#48). **B2B (#61–#70)** fora do primeiro momento (fechado). **#14** fora do MVP.  
 **Adiar pós tração:** #95, #97, multi-idioma (#87), white-label (#65).
 
 ---
@@ -302,7 +302,7 @@ O workflow BMAD de brainstorming prevê **pausas para escolha de técnica e conf
 **Despriorizar na UX do MVP (outros blocos da sessão)**
 
 - **#26** coautoria/revenue share: **fora do MVP**; convidados em #23 ficam fora da plataforma de split.
-- **White-label / multi-tenant** (#65), **B2B enterprise** (#61–#70) na interface do aluno: fora do núcleo até decisão explícita.
+- **White-label / multi-tenant** (#65), **B2B / enterprise** (#61–#70): **fora do primeiro momento** (decisão fechada); não no núcleo até fase posterior.
 - **SEO massivo por dezenas de landing de persona** (#45): pode reduzir a **poucas páginas** (programa, linhas, legal).
 
 ### Jornada UX repensada (happy path)
@@ -505,4 +505,126 @@ Três padrões viáveis (podem coexistir por fase):
 - **Idioma do admin:** só PT na V1?  
 - Lembretes: apenas **e-mail transacional** no MVP ou já integração com ferramenta (RD, Mailgun, SES)?
 
-*Mergulho temático — produto técnico/plataforma; próximo bloco na sessão original: **marketing / GTM** (#41–#50).*
+*Mergulho temático — produto técnico/plataforma.*
+
+---
+
+## Mergulho — marketing / GTM (Cat #41–#50)
+
+**Contexto:** um produtor, alunos/mentorados, entrada muitas vezes **já quente** (redes, lista). **#50 indicação (mês grátis)** ficou **pós-MVP** — não implementar programa de indicação no primeiro release. **#17 cupom** fora do MVP. **#9 / #10** fora. **#36 webhooks** alimentam e-mail e CRM. **#18 presente** é canal de aquisição. **#21** calendário **interno**.
+
+### Papel de cada ideia no modelo atual
+
+| Cat | Ideia | Leitura (single-producer / MVP) |
+|-----|--------|----------------------------------|
+| **#41** SEO por página de curso | **Alto valor incremental, baixo custo:** URLs estáveis, títulos/meta, `Course`/`VideoObject` schema onde couber, FAQ na página do programa. Catálogo pequeno = poucas URLs para otimizar bem. Complementa **#4** preview (tráfego qualificado). |
+| **#42** YouTube como topo de funil | **Muito alinhado ao BR:** cortes com CTA para **página de planos** ou trilha pública; UTM por campanha. Não exige feature nova além de landings e analytics. |
+| **#43** Parceria com podcasters | Confiança transferida; **sem #17** use **link com UTM**, página dedicada ou “fale com a equipe” — não bloqueie parceria por falta de cupom no produto. |
+| **#44** Afiliados com comissão recorrente limitada | **Pós-MVP ou piloto mínimo:** contrato + rastreamento + pagamento manual no início. Comissão **limitada no tempo** (ex.: 3–6 meses) protege MRR. Exige clareza com **#46** (números reais) e compliance de divulgação. |
+| **#45** Landing por persona | Com **uma marca**, evitar dezenas de landings: **2–4 páginas** no máximo (ex.: por linha temática ou por promessa), todas coerentes com a voz do produtor. |
+| **#46** Prova social com números reais | **Recomendado** se houver dado auditável (“+X alunos”, “Y horas publicadas”). Evita métrica vazia ou manipulável; alinha com confiança no checkout (**#11** + **#15**). |
+| **#47** Newsletter / comunidade leve | **Retenção + reativação:** curadoria “o que assistir”, novidades (#24), lembretes editoriais. Integra com **#36** e **#52** (consentimento marketing vs transacional). |
+| **#48** Live trimestral para assinantes | **Fora do núcleo MVP** salvo decisão explícita; exige stack de live + moderação. Versão mínima: **live em ferramenta externa** + link na área logada (sem player próprio no V1). |
+| **#49** Remarketing por aula abandonada | **Converge com lembretes no MVP:** e-mail (ou push depois) “retome na aula X” com base em progresso — depende de eventos **#36** e templates; não é só ads. |
+| **#50** Indicação (mês grátis para ambos) | **Pós-MVP (decisão fechada).** Crescimento orgânico forte; exige **billing** (crédito, anti-fraude, self-referral), copy e limites — implementar após assinatura e pagamentos estáveis. |
+
+### Funil simplificado (mental model)
+
+1. **Topo:** conteúdo gratuito do produtor (#42, redes, #43) → site com **#41** + mensagem única.  
+2. **Meio:** página de planos **#11**, prova **#46**, garantia **#15** (7 dias).  
+3. **Conversão:** assinatura ou **#18** presente.  
+4. **Retenção:** produto (#1, #24, #29) + **#47** + **#49** + contatos prometidos.  
+5. **Crescimento (pós-MVP):** **#50** + **#44** (opcional); no MVP, crescimento via **#42**, **#43**, **#41** e **#18**.
+
+### Prioridade sugerida (marketing × fase)
+
+| Fase | Foco | Itens |
+|------|------|--------|
+| **Lançamento** | Confiança + orgânico barato | **#41**, **#42**, **#45** enxuto, **#46** se aplicável, base **#47** (lista existente do produtor) |
+| **Com produto mínimo** | Reativação | **#49** + lembretes; **#47** regular |
+| **Crescimento** | Escala com controle | **#50 pós-MVP**, depois **#44**; **#43** contínuo |
+| **Condicional** | **#48** | Só com decisão e capacidade operacional |
+
+### Riscos e cuidados
+
+- **CAC:** depender só de pago sem **#41/#42** eleva custo; combinar sempre com orgânico do produtor.  
+- **#17 fora:** parcerias precisam de **UTM + landing** ou processo manual, não “cupom quebrado” no checkout.  
+- **#50 / #44 (quando existirem):** fraude (múltiplas contas, afiliado falso) — regras e auditoria desde o desenho.  
+- **LGPD:** **#47/#49** exigem base legal e opt-in de marketing (**#52**).
+
+### Decisão complementar (marketing)
+
+| Item | Decisão |
+|------|--------|
+| **#50** Indicação (mês grátis / K-factor) | **Pós-MVP** — não escopo do primeiro release. |
+
+### Perguntas em aberto (marketing → PRD)
+
+- Lista de e-mail do produtor já existe e qual ferramenta (**#36** → integração)?  
+- **#48** descartado no MVP ou “live externa + link” conta como aceitável?
+
+*Mergulho temático — marketing / GTM.*
+
+---
+
+## Mergulho — risco / compliance / confiança (Cat #51–#60) — resumo
+
+**Escopo acordado:** foco em **#51–#53, #56, #59, #60**. **#54, #55, #57, #58** ficam **fora** deste pacote (ver anotações nas ideias #54–#58).
+
+| Cat | Papel no MVP |
+|-----|----------------|
+| **#51** | LGPD / transparência de dados — página e checkout. |
+| **#52** | E-mail transacional vs marketing (#47); consentimento. |
+| **#53** | Política de conteúdo do programa (opcional mas útil). |
+| **#56** | Chargeback / alertas no gateway (cartão + Pix). |
+| **#59** | Backup mídia + contratos/licenças (com **#89** operação). |
+| **#60** | WCAG incremental + **#33** legendas. |
+| **#54–#58** | Fora — retomar se UGC, cláusulas específicas, exercício formal de reembolso ou crise de mídia forem prioridade. |
+
+**Reembolso 7 dias (#15):** alinhar texto e operação com **jurídico** e SLA (**#83**), sem obrigatoriedade de **#57** (stress test formal).
+
+---
+
+## Mergulho — B2B / adjacências (Cat #61–#70)
+
+**Contexto:** produto centrado em **um produtor** e **alunos/mentorados (B2C)** com assinatura por conteúdo. O bloco **#61–#70** são **canais e formatos corporativos ou enterprise** — úteis no **distillate** como expansão, mas carregam **complexidade** (contratos, NF, SSO, relatórios para terceiros).
+
+**Decisão fechada — primeiro momento:** **não haverá B2B.** Itens **#61–#70** ficam **fora do escopo** até fase posterior; foco em **consumidor (CPF)** no checkout e na operação. **#66** (certificado) não é só B2B: **comprovante só para aluno B2C** pode ser retomado em outro bloco, **sem** fluxo PJ nem “prova para RH”.
+
+### Leitura por ideia
+
+| Cat | Ideia | Leitura |
+|-----|--------|---------|
+| **#61** Licença por assentos (RH compra N logins) | Modelo **B2B clássico**: contrato, faturamento, desprovisionamento quando o colaborador sai. **Pós-MVP** salvo pivô explícito para “escola corporativa”. |
+| **#62** Relatório de progresso para gestor | **Prova de uso** para quem pagou a conta (empresa). Exige definição de **“gestor”** vs aluno, permissões e export. **Pós-MVP** junto com #61. |
+| **#63** SSO (SAML/OIDC) | Requisito típico de **TI enterprise**. Alto custo de implementação e suporte. **Bem pós-MVP**. |
+| **#64** Workshops fechados como add-on | Pode existir **como oferta comercial** sem feature: venda manual + Zoom/Meet + lista de presença. **Produto** para vender/agendar workshop **dentro** da plataforma = fase seguinte. |
+| **#65** White-label / subdomínio cliente | Conflita com **marca única do produtor**; multi-tenant parcial. **Pós-MVP** ou nunca, conforme estratégia. |
+| **#66** Certificado com QR verificável | **Corta-caminho** para B2C “prova de conclusão”; uso **corporativo/PJ** fora no primeiro momento. **Só B2C:** decisão explícita na priorização. |
+| **#67** API read-only de progresso | Integração com **LMS/RH** externo. Útil quando #61/#62 existirem; **pós-MVP** ou parceria técnica pontual. |
+| **#68** Pacote “equipe mínima” (ex.: 5 licenças) | **Menor SKU B2B** se quiser testar corporativo sem #61 genérico; ainda exige **#70** se PJ. |
+| **#69** NR / treinamento obrigatório | Só relevante se o **nicho for compliance regulatório** (ex.: SST); produto + jurídico + conteúdo certificado. Fora do core se o programa for genérico. |
+| **#70** NF e fluxo **PJ** | **Primeiro momento:** **fora** — sem venda PJ/self-service na plataforma. Quando B2B voltar ao roadmap, **operação + gateway + nota** precisam estar claros (manual ou integrado). |
+
+### Posicionamento padrão (alinhado ao realinhamento B2C)
+
+| Faixa | Tratamento sugerido |
+|-------|---------------------|
+| **Primeiro momento (fechado)** | **Zero B2B:** **#61–#70** fora do escopo; não bloquear lançamento com corporativo/PJ. |
+| **MVP B2C** | Manter **#61–#70** só como **roadmap pós-MVP** quando houver decisão de reabrir B2B. |
+| **Diferenciação B2C** | **#66** (certificado só aluno) se o mercado pedir comprovante formal — **sem** ângulo empresa no V1. |
+| **Escala B2B (futuro)** | **#61 → #62 → #63 → #67** nessa ordem lógica de dependência; **#70** + **#68** como porta de entrada típica quando PJ for aceito. |
+
+### Riscos se B2B entrar cedo demais
+
+- **Roadmap diluído** em SSO e relatórios antes do **core de consumo** estar sólido.  
+- **Ciclo de venda** longo (PJ) sem receita B2C validando o produto.  
+- **#69** sem conteúdo e jurídico alinhados vira passivo, não receita.
+
+### Perguntas em aberto (B2B → negócio / PRD)
+
+- **B2B nos primeiros 12 meses:** **não** (decisão fechada para o primeiro momento).  
+- **#66** certificado **só B2C** entra no pacote do MVP B2C ou não? (permanece em “depende de decisão explícita” na priorização.)  
+- **Quando** reabrir B2B: ordem de **#70** (PJ/NF) vs **#68** (pacote mínimo) — para PRD de fase posterior.
+
+*Mergulho temático — B2B / adjacências; próximo bloco na sessão original: **identidade vs referência** (#71–#80).*
